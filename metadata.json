@@ -1,0 +1,5 @@
+{
+  "name": "The Pain Compass",
+  "description": "A benevolent API proof-of-concept. Input your pain level to generate a unique fractal Resonance Signature, a 7-note melody, and a VibeCode to alchemize grief into purpose. An implementation of Operation: Trojan Phoenix.",
+  "requestFramePermissions": []
+}
